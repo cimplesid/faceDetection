@@ -1,16 +1,28 @@
-# aiproject
+# Face Detection
 
-A new Flutter project.
+An flutter project to implement MLkit .
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+    
+    
+### :heart: Loved or  Liked :+1: the work don't forget to :star: the repo :fire: :fire: :fire:
 
-A few resources to get you started if this is your first Flutter project:
+## Working
+<img src="gif2.gif"   align="center" height="480px" /> 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+  
+ 
+## Contribute
+
+- [Fork](https://github.com/cimplesid/faceDetection/fork) the project
+- add `feature-branch` and add new feature
+- only send the PR in new branch
+
+### Download apk from below to test 
+
+  <a href="https://raw.githubusercontent.com/cimplesid/faceDetection/master/facedetection.apk">
+        <img src="https://www.coinagemag.com/wp-content/uploads/2017/12/free-download-png-blue-color-free-download-button-679-1.png" align="center" alt="download-icon"/>
+    </a>
+
